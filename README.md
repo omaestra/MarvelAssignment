@@ -12,6 +12,8 @@ This repository provides an example iOS app using the Marvel's API as datasource
 
 2. Provide Marvel's API public and private keys on the `MarvelAssignmentInfo.plist` file filling up the `MARVEL_API_PRIVATE_KEY` and `MARVEL_API_PUBLIC_KEY` properties values.
 
+3. Select the `MarvelAssignment` target build.
+
 # Architecture:
 
 The application follows the Model-View-Presenter-Coordinator (MVP-C) architecture pattern demostrating a simple but quite organized way of working and fostering separation of concerns.
