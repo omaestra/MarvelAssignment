@@ -14,7 +14,7 @@ This repository provides an example iOS app using the Marvel's API as datasource
 
 # Architecture:
 
-The application follows the Model-View-Presenter-Coordinator (MVP-C) architecture pattern demostrating a sumple but quite organized way of working and fostering separation of concerns.
+The application follows the Model-View-Presenter-Coordinator (MVP-C) architecture pattern demostrating a simple but quite organized way of working and fostering separation of concerns.
 It is important to point out, that the app implements the Coordinator/Navigator pattern that manages the navigation logic into a separate layer.
 
 Regarding the networking layer, it is also isolated into a separated layer ensuring separation of concerns and abstracting the networking logic. 
