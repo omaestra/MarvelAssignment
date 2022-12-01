@@ -4,6 +4,8 @@
 <dict>
 	<key>MARVEL_API_PRIVATE_KEY</key>
 	<string>$(MARVEL_API_PRIVATE_KEY)</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
 	<key>MARVEL_API_PUBLIC_KEY</key>
 	<string>$(MARVEL_API_PUBLIC_KEY)</string>
 	<key>NSAppTransportSecurity</key>
