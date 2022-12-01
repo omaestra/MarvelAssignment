@@ -4,6 +4,8 @@
 
 This repository provides an example iOS app using the Marvel's API as datasource and aims to explain some of the best common practices when developing an iOS app.
 
+The app was built using XCode v13.2.1 and iOS 15.2 as development target.
+
 # How to build:
 
 1. Install dependencies using Cocoapods.
